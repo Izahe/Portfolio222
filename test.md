@@ -4,4 +4,13 @@ title: "test"
 permalink: /test/
 ---
 
-# hello
+<html>
+    <head>
+        <title>Test Page</title>
+    </head>
+    <body>
+        <h1>My First Heading</h1>
+        <p>A simple paragraph of text</p>
+        <p>Another paragraph of text</p>
+    </body>
+</html>
